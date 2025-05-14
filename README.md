@@ -38,7 +38,7 @@ Data is sent to [ThingSpeak](https://thingspeak.com) for remote monitoring. Each
 
 ## Results
 
-- The system successfully performs real-time temperature and pressure measurements
+- The system successfully performs temperature and pressure measurements
 - Data is reliably shown on the TFT screen and uploaded to the cloud
 - Debugging was done using UART output in MPLAB Data Visualizer
 
