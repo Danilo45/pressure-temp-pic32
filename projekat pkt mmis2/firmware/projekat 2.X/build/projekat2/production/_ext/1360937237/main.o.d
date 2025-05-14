@@ -1,0 +1,58 @@
+build/projekat2/production/_ext/1360937237/main.o: ../src/main.c \
+ ../src/config/projekat2/definitions.h \
+ ../src/config/projekat2/peripheral/coretimer/plib_coretimer.h \
+ ../src/config/projekat2/peripheral/i2c/master/plib_i2c2_master.h \
+ ../src/config/projekat2/peripheral/i2c/master/plib_i2c_master_common.h \
+ ../src/config/projekat2/peripheral/uart/plib_uart1.h \
+ ../src/config/projekat2/device.h \
+ ../src/config/projekat2/toolchain_specifics.h \
+ ../src/config/projekat2/peripheral/uart/plib_uart_common.h \
+ ../src/config/projekat2/peripheral/uart/plib_uart2.h \
+ ../src/config/projekat2/peripheral/clk/plib_clk.h \
+ ../src/config/projekat2/peripheral/gpio/plib_gpio.h \
+ ../src/config/projekat2/peripheral/evic/plib_evic.h ../src/ESP8266.h \
+ ../src/MS8607.h \
+ ../src/config/projekat2/peripheral/coretimer/plib_coretimer.h \
+ ../src/config/projekat2/peripheral/i2c/master/plib_i2c2_master.h \
+ ../src/fonts.h ../src/ili9341.h \
+ ../src/config/projekat2/peripheral/gpio/plib_gpio.h ../src/bmp.h
+
+../src/config/projekat2/definitions.h:
+
+../src/config/projekat2/peripheral/coretimer/plib_coretimer.h:
+
+../src/config/projekat2/peripheral/i2c/master/plib_i2c2_master.h:
+
+../src/config/projekat2/peripheral/i2c/master/plib_i2c_master_common.h:
+
+../src/config/projekat2/peripheral/uart/plib_uart1.h:
+
+../src/config/projekat2/device.h:
+
+../src/config/projekat2/toolchain_specifics.h:
+
+../src/config/projekat2/peripheral/uart/plib_uart_common.h:
+
+../src/config/projekat2/peripheral/uart/plib_uart2.h:
+
+../src/config/projekat2/peripheral/clk/plib_clk.h:
+
+../src/config/projekat2/peripheral/gpio/plib_gpio.h:
+
+../src/config/projekat2/peripheral/evic/plib_evic.h:
+
+../src/ESP8266.h:
+
+../src/MS8607.h:
+
+../src/config/projekat2/peripheral/coretimer/plib_coretimer.h:
+
+../src/config/projekat2/peripheral/i2c/master/plib_i2c2_master.h:
+
+../src/fonts.h:
+
+../src/ili9341.h:
+
+../src/config/projekat2/peripheral/gpio/plib_gpio.h:
+
+../src/bmp.h:
